@@ -34,9 +34,8 @@ food(chicken).
 food(peanuts).
 ```
 ### Output:
-```
-![image](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/6de84b1f-54a2-41db-8a8b-cae3ab45c53d)
-```
+![Screenshot (1)](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/458f26f0-c0b1-43b0-b33c-7148bc1803bb)
+
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -55,9 +54,8 @@ course(X,dept(havefun)).
 course(bk301,dept(havefun)).
 ```
 ### Output:
-```
-![image](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/b1d10faa-2f4a-4783-a9d0-49159ea668be)
-```
+![WhatsApp Image 2024-05-06 at 11 14 14_d56d4b39](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/4fa33ec5-426b-4374-b0e9-8de305f3adc0)
+
 ### Task 3:
 Consider the statement <br> 
 “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
@@ -77,8 +75,7 @@ american(west).
 ```
 
 ### Output:
-```
-![image](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/fa86d324-9894-4364-8ac0-d00d7373ea9d)
-```
+![WhatsApp Image 2024-05-06 at 11 16 11_928c3216](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/46ea7431-40a8-4b24-a43b-ecb3ff75b6a6)
+
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
