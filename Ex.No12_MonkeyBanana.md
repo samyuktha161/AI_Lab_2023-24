@@ -47,7 +47,8 @@ Step 7: Stop the program.<br>
 ```
 ### Output/Plan:
 ```
-![image](https://github.com/SamyukthaPM118/AI_Lab_2023-24/assets/160995906/b8b203dc-c088-4fef-82bb-0d5bf54d986a)
+![12th banana exp](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/7f1ac3ed-063f-4a76-8914-4167b28a4eb4)
+
 ```
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
