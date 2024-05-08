@@ -14,14 +14,15 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 ### Program:
 ```
 factorial(0,1).
-factorial(A,B) :-
-A > 0, C is A-1, factorial(C,D), B is A*D.
+factorial(A,B) :-  
+           A > 0, 
+           C is A-1,
+           factorial(C,D),
+           B is A*D.
 ```
-
 ### Output:
-```
-![WhatsApp Image 2024-05-08 at 15 12 49_7eb67f8f](https://github.com/samyuktha161/AI_Lab_2023-24/assets/160303229/344ec0fb-405d-4dc9-848e-295ffa7fb2aa)
-```
+
+![WhatsApp Image 2024-03-23 at 11 38 30 AM](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/cdabb918-327b-4e6d-9e24-0bf9b7558a44)
 
 
 ### Result:
