@@ -22,7 +22,7 @@ factorial(A,B) :-
 ```
 ### Output:
 
-![WhatsApp Image 2024-03-23 at 11 38 30 AM](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/cdabb918-327b-4e6d-9e24-0bf9b7558a44)
+![WhatsApp Image 2024-03-23 at 11 38 30 AM](https://github.com/samyuktha161/AI_Lab_2023-24/assets/114944625/cdabb918-327b-4e6d-9e24-0bf9b7558a44)
 
 
 ### Result:
